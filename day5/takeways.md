@@ -27,3 +27,10 @@ NOn static :
     No need objects to use/call its own static and non static members
     Non static members are indirect
   
+
+
+
+
+
+  REcurison method
+  brief note
