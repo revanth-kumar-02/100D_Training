@@ -22,5 +22,8 @@ public class IntToRoman {
         if (number>=4){roman+="IV"; number-=4;}
         while (number>=1) {roman+="I"; number--;}
         System.out.println(roman);
+        
+        check.close();
     }
+    
 }

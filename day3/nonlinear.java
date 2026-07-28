@@ -17,5 +17,6 @@ public class nonlinear {
             }else 
                 System.out.println("Insufficient balance");
         }
+        sc.close();
     }
 }
